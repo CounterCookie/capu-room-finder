@@ -1,0 +1,16 @@
+curl -v "https://ssb9s.capilanou.ca:8443/StudentRegistrationSsb/ssb/searchResults/searchResults?txt_term=202310&startDatepicker=&endDatepicker=&uniqueSessionId=a6bod1673633595164&pageOffset=$1&pageMaxSize=50&sortColumn=subjectDescription&sortDirection=asc" \
+  -H 'Accept: application/json, text/javascript, */*; q=0.01' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,en-CA;q=0.7' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: JSESSIONID=549ECE666ACBF2D51214849C818219FE; _gcl_au=1.1.1341886929.1667329140; _fbp=fb.1.1667329140589.1575212859; _ga=GA1.1.1490157521.1667329140; _hjSessionUser_1964476=eyJpZCI6ImIwYWY3NWYwLTViYmMtNTdhMi04YTQ0LTIyNmQ4MTE3MThhZCIsImNyZWF0ZWQiOjE2NjczMjkxNDA4MDIsImV4aXN0aW5nIjpmYWxzZX0=; _tt_enable_cookie=1; _ttp=479e0576-1922-4c92-b5ee-12920b48a17d; _clck=1yestpa|1|f67|0; _ga_BD02RED6MW=GS1.1.1667329140.1.1.1667329162.38.0.0; amplitude_id_9f6c0bb8b82021496164c672a7dc98d6_edmcapilanou.ca=eyJkZXZpY2VJZCI6IjY4MjM2MjA4LTQ3OWQtNGM1Yy04YjE5LTgwZDdlY2JhNjg0NFIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTY3MDc4MjIwMjAxNSwibGFzdEV2ZW50VGltZSI6MTY3MDc4MjIwMjAxNywiZXZlbnRJZCI6MCwiaWRlbnRpZnlJZCI6MSwic2VxdWVuY2VOdW1iZXIiOjF9; BIGipServerSBS9S.app~SBS9S_pool=1862276268.64288.0000' \
+  -H 'Referer: https://ssb9s.capilanou.ca:8443/StudentRegistrationSsb/ssb/classRegistration/classRegistration' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  -H 'X-Synchronizer-Token: b6535f0f-9c7e-4e2e-a987-1794f2e485e6' \
+  -H 'sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  --compressed

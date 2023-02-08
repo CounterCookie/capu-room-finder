@@ -1,0 +1,4798 @@
+data:
+- campusDescription: North Vancouver
+  courseNumber: '101'
+  courseReferenceNumber: '10603'
+  courseTitle: Acting II
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 16
+  faculty:
+  - bannerId: '1393370'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10603'
+    displayName: Harrison, Nicholas
+    emailAddress: nharriso@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295412
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10603'
+    faculty: []
+    meetingTime:
+      beginTime: '1030'
+      building: BR
+      buildingDescription: Birch
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10603'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1220'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: true
+      room: '002'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: true
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 4
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ACTR
+  subjectCourse: ACTR101
+  subjectDescription: Acting
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '101'
+  courseReferenceNumber: '10605'
+  courseTitle: Acting II
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 20
+  faculty:
+  - bannerId: '1393370'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10605'
+    displayName: Harrison, Nicholas
+    emailAddress: nharriso@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295414
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10605'
+    faculty: []
+    meetingTime:
+      beginTime: 0830
+      building: BR
+      buildingDescription: Birch
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10605'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1020'
+      friday: true
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '002'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: true
+    term: '202310'
+  openSection: false
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 0
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: false
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ACTR
+  subjectCourse: ACTR101
+  subjectDescription: Acting
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '101'
+  courseReferenceNumber: '10606'
+  courseTitle: Acting II
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 18
+  faculty:
+  - bannerId: '1393370'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10606'
+    displayName: Harrison, Nicholas
+    emailAddress: nharriso@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295415
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10606'
+    faculty: []
+    meetingTime:
+      beginTime: '1330'
+      building: BR
+      buildingDescription: Birch
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10606'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1720'
+      friday: true
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '002'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 2
+  sectionAttributes: null
+  sequenceNumber: '03'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: false
+  subject: ACTR
+  subjectCourse: ACTR101
+  subjectDescription: Acting
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '201'
+  courseReferenceNumber: '10607'
+  courseTitle: Acting IV
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 18
+  faculty:
+  - bannerId: '1393371'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10607'
+    displayName: Frazer, Robert
+    emailAddress: robertfrazer2@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295416
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10607'
+    faculty: []
+    meetingTime:
+      beginTime: '1330'
+      building: AR
+      buildingDescription: Arbutus
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10607'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1520'
+      friday: true
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '117'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10607'
+    faculty: []
+    meetingTime:
+      beginTime: '1500'
+      building: BR
+      buildingDescription: Birch
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10607'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1650'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '002'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 2
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ACTR
+  subjectCourse: ACTR201
+  subjectDescription: Acting
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '201'
+  courseReferenceNumber: '10608'
+  courseTitle: Acting IV
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 16
+  faculty:
+  - bannerId: '1393371'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10608'
+    displayName: Frazer, Robert
+    emailAddress: robertfrazer2@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295417
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10608'
+    faculty: []
+    meetingTime:
+      beginTime: 0930
+      building: BR
+      buildingDescription: Birch
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10608'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1120'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '002'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10608'
+    faculty: []
+    meetingTime:
+      beginTime: '1300'
+      building: BR
+      buildingDescription: Birch
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10608'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1450'
+      friday: false
+      hoursWeek: 1.83
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '002'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: true
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 4
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ACTR
+  subjectCourse: ACTR201
+  subjectDescription: Acting
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '201'
+  courseReferenceNumber: '10610'
+  courseTitle: Acting IV
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 13
+  faculty:
+  - bannerId: '1393371'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10610'
+    displayName: Frazer, Robert
+    emailAddress: robertfrazer2@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295419
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10610'
+    faculty: []
+    meetingTime:
+      beginTime: 0930
+      building: BR
+      buildingDescription: Birch
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10610'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1120'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '002'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: true
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10610'
+    faculty: []
+    meetingTime:
+      beginTime: '1300'
+      building: BR
+      buildingDescription: Birch
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10610'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1450'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '002'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 7
+  sectionAttributes: null
+  sequenceNumber: '03'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ACTR
+  subjectCourse: ACTR201
+  subjectDescription: Acting
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '305'
+  courseReferenceNumber: '11243'
+  courseTitle: Performer Special Skills II
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 11
+  faculty:
+  - bannerId: '1393373'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11243'
+    displayName: Atkins, Stephen
+    emailAddress: satkins@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  - bannerId: '1393374'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11243'
+    displayName: Barber, Gillian
+    emailAddress: gbarber@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  - bannerId: '1393375'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11243'
+    displayName: Kuman, Anna
+    emailAddress: annakuman@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  - bannerId: '1393376'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11243'
+    displayName: Crane, Chilton
+    emailAddress: chiltoncrane@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  - bannerId: '1393377'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11243'
+    displayName: Brodkin, Michaela
+    emailAddress: michaelabrodkin@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  - bannerId: '1393378'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11243'
+    displayName: Holgerson, Sonja
+    emailAddress: sonjaholgerson@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  id: 296034
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '11243'
+    faculty: []
+    meetingTime:
+      beginTime: '1030'
+      building: AR
+      buildingDescription: Arbutus
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '11243'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1220'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: true
+      room: '001'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: true
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 9
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ACTR
+  subjectCourse: ACTR305
+  subjectDescription: Acting
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '305'
+  courseReferenceNumber: '11244'
+  courseTitle: Performer Special Skills II
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 13
+  faculty:
+  - bannerId: '1393373'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11244'
+    displayName: Atkins, Stephen
+    emailAddress: satkins@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  - bannerId: '1393374'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11244'
+    displayName: Barber, Gillian
+    emailAddress: gbarber@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  - bannerId: '1393375'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11244'
+    displayName: Kuman, Anna
+    emailAddress: annakuman@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  - bannerId: '1393379'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11244'
+    displayName: Gollner, Billy
+    emailAddress: williamgollner@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  - bannerId: '1393377'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11244'
+    displayName: Brodkin, Michaela
+    emailAddress: michaelabrodkin@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  - bannerId: '1393378'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11244'
+    displayName: Holgerson, Sonja
+    emailAddress: sonjaholgerson@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  id: 296035
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '11244'
+    faculty: []
+    meetingTime:
+      beginTime: 0930
+      building: AR
+      buildingDescription: Arbutus
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '11244'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1120'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '001'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: true
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 7
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ACTR
+  subjectCourse: ACTR305
+  subjectDescription: Acting
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '305'
+  courseReferenceNumber: '11245'
+  courseTitle: Performer Special Skills II
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 16
+  faculty:
+  - bannerId: '1393373'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11245'
+    displayName: Atkins, Stephen
+    emailAddress: satkins@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  - bannerId: '1393374'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11245'
+    displayName: Barber, Gillian
+    emailAddress: gbarber@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  - bannerId: '1393375'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11245'
+    displayName: Kuman, Anna
+    emailAddress: annakuman@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  - bannerId: '1393379'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11245'
+    displayName: Gollner, Billy
+    emailAddress: williamgollner@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  - bannerId: '1393377'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11245'
+    displayName: Brodkin, Michaela
+    emailAddress: michaelabrodkin@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  - bannerId: '1393378'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11245'
+    displayName: Holgerson, Sonja
+    emailAddress: sonjaholgerson@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  id: 296036
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '11245'
+    faculty: []
+    meetingTime:
+      beginTime: '1300'
+      building: AR
+      buildingDescription: Arbutus
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '11245'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1450'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '117'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: true
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 4
+  sectionAttributes: null
+  sequenceNumber: '03'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ACTR
+  subjectCourse: ACTR305
+  subjectDescription: Acting
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '114'
+  courseReferenceNumber: '10616'
+  courseTitle: The Screen Actor&#39;s Process I
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 17
+  faculty:
+  - bannerId: '1393372'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10616'
+    displayName: Johnson, Patricia
+    emailAddress: ljohnso1@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295425
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10616'
+    faculty: []
+    meetingTime:
+      beginTime: 0830
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10616'
+      creditHourSession: 0.0
+      endDate: 17/02/2023
+      endTime: '1120'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '112'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: true
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '18'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 3
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: false
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS114
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '114'
+  courseReferenceNumber: '10617'
+  courseTitle: The Screen Actor&#39;s Process I
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 20
+  faculty:
+  - bannerId: '1393372'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10617'
+    displayName: Johnson, Patricia
+    emailAddress: ljohnso1@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295426
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10617'
+    faculty: []
+    meetingTime:
+      beginTime: 0830
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10617'
+      creditHourSession: 0.0
+      endDate: 17/02/2023
+      endTime: '1120'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '112'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  openSection: false
+  partOfTerm: '18'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 0
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    restricted: true
+    sectionOpen: false
+    sectionStatus: true
+    select: false
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS114
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '115'
+  courseReferenceNumber: '10618'
+  courseTitle: Voice for the Actor I
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 17
+  faculty:
+  - bannerId: '1393522'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10618'
+    displayName: Henry, Shawn
+    emailAddress: shawnhenry@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295427
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10618'
+    faculty: []
+    meetingTime:
+      beginTime: '1530'
+      building: AR
+      buildingDescription: Arbutus
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10618'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1720'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: true
+      room: '117'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 3
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS115
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '115'
+  courseReferenceNumber: '10619'
+  courseTitle: Voice for the Actor I
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 20
+  faculty:
+  - bannerId: '1393522'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10619'
+    displayName: Henry, Shawn
+    emailAddress: shawnhenry@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295428
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10619'
+    faculty: []
+    meetingTime:
+      beginTime: '1530'
+      building: AR
+      buildingDescription: Arbutus
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10619'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1720'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '117'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: true
+    term: '202310'
+  openSection: false
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 0
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: false
+    sectionStatus: true
+    select: true
+    timeConflict: false
+  subject: ASAS
+  subjectCourse: ASAS115
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '116'
+  courseReferenceNumber: '10620'
+  courseTitle: Movement for the Actor I
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 17
+  faculty:
+  - bannerId: '1393373'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10620'
+    displayName: Atkins, Stephen
+    emailAddress: satkins@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295429
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10620'
+    faculty: []
+    meetingTime:
+      beginTime: '1500'
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10620'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1650'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '118'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: true
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 3
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: false
+  subject: ASAS
+  subjectCourse: ASAS116
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '116'
+  courseReferenceNumber: '10622'
+  courseTitle: Movement for the Actor I
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 20
+  faculty:
+  - bannerId: '1393373'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10622'
+    displayName: Atkins, Stephen
+    emailAddress: satkins@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295431
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10622'
+    faculty: []
+    meetingTime:
+      beginTime: '1500'
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10622'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1650'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '118'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  openSection: false
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 0
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: false
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS116
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '161'
+  courseReferenceNumber: '10624'
+  courseTitle: Ensemble Projects I
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 15
+  faculty:
+  - bannerId: '1393373'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10624'
+    displayName: Atkins, Stephen
+    emailAddress: satkins@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  - bannerId: '1393523'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10624'
+    displayName: Dow, William
+    emailAddress: williamdow@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  id: 295433
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10624'
+    faculty: []
+    meetingTime:
+      beginTime: '1330'
+      building: AR
+      buildingDescription: Arbutus
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10624'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1520'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: true
+      room: '001'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: true
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 5
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS161
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '161'
+  courseReferenceNumber: '10629'
+  courseTitle: Ensemble Projects I
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 20
+  faculty:
+  - bannerId: '1393373'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10629'
+    displayName: Atkins, Stephen
+    emailAddress: satkins@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  - bannerId: '1393523'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10629'
+    displayName: Dow, William
+    emailAddress: williamdow@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  id: 295438
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10629'
+    faculty: []
+    meetingTime:
+      beginTime: '1330'
+      building: AR
+      buildingDescription: Arbutus
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10629'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1520'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: true
+      room: '001'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: true
+    term: '202310'
+  openSection: false
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 0
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: false
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS161
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '162'
+  courseReferenceNumber: '10630'
+  courseTitle: Screen Projects I
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 17
+  faculty:
+  - bannerId: '1393524'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10630'
+    displayName: Davies, John
+    emailAddress: jdavies@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295439
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10630'
+    faculty: []
+    meetingTime:
+      beginTime: 0830
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10630'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1120'
+      friday: false
+      hoursWeek: 2.83
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '112'
+      saturday: false
+      startDate: 27/02/2023
+      sunday: false
+      term: '202310'
+      thursday: true
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '16'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 3
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS162
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '162'
+  courseReferenceNumber: '10631'
+  courseTitle: Screen Projects I
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 20
+  faculty:
+  - bannerId: '1393524'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10631'
+    displayName: Davies, John
+    emailAddress: jdavies@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295440
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10631'
+    faculty: []
+    meetingTime:
+      beginTime: 0830
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10631'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1120'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '112'
+      saturday: false
+      startDate: 27/02/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  openSection: false
+  partOfTerm: '16'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 0
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: false
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS162
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '210'
+  courseReferenceNumber: '10632'
+  courseTitle: Screen Acting II
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 13
+  faculty:
+  - bannerId: '1393372'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10632'
+    displayName: Johnson, Patricia
+    emailAddress: ljohnso1@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  - bannerId: '1393524'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10632'
+    displayName: Davies, John
+    emailAddress: jdavies@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  id: 295441
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10632'
+    faculty: []
+    meetingTime:
+      beginTime: '1330'
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10632'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1720'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '112'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: true
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 7
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: false
+  subject: ASAS
+  subjectCourse: ASAS210
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '210'
+  courseReferenceNumber: '10633'
+  courseTitle: Screen Acting II
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 16
+  faculty:
+  - bannerId: '1393372'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10633'
+    displayName: Johnson, Patricia
+    emailAddress: ljohnso1@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  - bannerId: '1393524'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10633'
+    displayName: Davies, John
+    emailAddress: jdavies@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  id: 295442
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10633'
+    faculty: []
+    meetingTime:
+      beginTime: 0830
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10633'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1220'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '112'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: true
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 4
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS210
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '220'
+  courseReferenceNumber: '10843'
+  courseTitle: Performance History II
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 24
+  faculty:
+  - bannerId: '1393549'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10843'
+    displayName: Deines, Michelle
+    emailAddress: michelledeines@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295652
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 32
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10843'
+    faculty: []
+    meetingTime:
+      beginTime: '1300'
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10843'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1450'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '117'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: true
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10843'
+    faculty: []
+    meetingTime:
+      beginTime: '1500'
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10843'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1650'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '117'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 8
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS220
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '220'
+  courseReferenceNumber: '10844'
+  courseTitle: Performance History II
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 16
+  faculty:
+  - bannerId: '1393549'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10844'
+    displayName: Deines, Michelle
+    emailAddress: michelledeines@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295653
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 32
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10844'
+    faculty: []
+    meetingTime:
+      beginTime: '1300'
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10844'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1450'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '117'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10844'
+    faculty: []
+    meetingTime:
+      beginTime: '1500'
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10844'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1650'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '117'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: true
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 16
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS220
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '225'
+  courseReferenceNumber: '10634'
+  courseTitle: Voice for the Actor III
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 13
+  faculty:
+  - bannerId: '1393498'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10634'
+    displayName: Wilmot, Catherine
+    emailAddress: catherinewilmot@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295443
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10634'
+    faculty: []
+    meetingTime:
+      beginTime: '1030'
+      building: AR
+      buildingDescription: Arbutus
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10634'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1220'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '117'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: true
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 7
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS225
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '225'
+  courseReferenceNumber: '10635'
+  courseTitle: Voice for the Actor III
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 16
+  faculty:
+  - bannerId: '1393498'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10635'
+    displayName: Wilmot, Catherine
+    emailAddress: catherinewilmot@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295444
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10635'
+    faculty: []
+    meetingTime:
+      beginTime: '1030'
+      building: AR
+      buildingDescription: Arbutus
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10635'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1220'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: true
+      room: '117'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 4
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS225
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '226'
+  courseReferenceNumber: '10845'
+  courseTitle: Movement for the Actor III
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 13
+  faculty:
+  - bannerId: '1393370'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10845'
+    displayName: Harrison, Nicholas
+    emailAddress: nharriso@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  - bannerId: '1393550'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10845'
+    displayName: McLaughlin, Troy
+    emailAddress: tmclaugh@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  id: 295654
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10845'
+    faculty: []
+    meetingTime:
+      beginTime: 0830
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10845'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1020'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: true
+      room: '118'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 7
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS226
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '226'
+  courseReferenceNumber: '10846'
+  courseTitle: Movement for the Actor III
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 16
+  faculty:
+  - bannerId: '1393370'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10846'
+    displayName: Harrison, Nicholas
+    emailAddress: nharriso@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  - bannerId: '1393550'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10846'
+    displayName: McLaughlin, Troy
+    emailAddress: tmclaugh@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  id: 295655
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10846'
+    faculty: []
+    meetingTime:
+      beginTime: '1030'
+      building: AR
+      buildingDescription: Arbutus
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10846'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1220'
+      friday: true
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '117'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 4
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS226
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '261'
+  courseReferenceNumber: '10636'
+  courseTitle: Ensemble Projects II
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 13
+  faculty:
+  - bannerId: '1393373'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10636'
+    displayName: Atkins, Stephen
+    emailAddress: satkins@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  - bannerId: '1393523'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10636'
+    displayName: Dow, William
+    emailAddress: williamdow@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  id: 295445
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10636'
+    faculty: []
+    meetingTime:
+      beginTime: '1330'
+      building: BR
+      buildingDescription: Birch
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10636'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1720'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: true
+      room: '002'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 7
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS261
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '261'
+  courseReferenceNumber: '10637'
+  courseTitle: Ensemble Projects II
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 16
+  faculty:
+  - bannerId: '1393373'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10637'
+    displayName: Atkins, Stephen
+    emailAddress: satkins@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  - bannerId: '1393523'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10637'
+    displayName: Dow, William
+    emailAddress: williamdow@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  id: 295446
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10637'
+    faculty: []
+    meetingTime:
+      beginTime: '1330'
+      building: BR
+      buildingDescription: Birch
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10637'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1720'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '002'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: true
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 4
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: false
+  subject: ASAS
+  subjectCourse: ASAS261
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '262'
+  courseReferenceNumber: '10847'
+  courseTitle: Screen Projects II
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 13
+  faculty:
+  - bannerId: '1393524'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10847'
+    displayName: Davies, John
+    emailAddress: jdavies@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295656
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10847'
+    faculty: []
+    meetingTime:
+      beginTime: '1030'
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10847'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1220'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: true
+      room: '112'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 7
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS262
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '262'
+  courseReferenceNumber: '10848'
+  courseTitle: Screen Projects II
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 16
+  faculty:
+  - bannerId: '1393524'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10848'
+    displayName: Davies, John
+    emailAddress: jdavies@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295657
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10848'
+    faculty: []
+    meetingTime:
+      beginTime: 0830
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10848'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1020'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: true
+      room: '112'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 4
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS262
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '302'
+  courseReferenceNumber: '10369'
+  courseTitle: Graduation Showcase
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 2
+  creditHours: 2
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 16
+  faculty:
+  - bannerId: '1393374'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10369'
+    displayName: Barber, Gillian
+    emailAddress: gbarber@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  - bannerId: '1393376'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10369'
+    displayName: Crane, Chilton
+    emailAddress: chiltoncrane@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  - bannerId: '1393498'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10369'
+    displayName: Wilmot, Catherine
+    emailAddress: catherinewilmot@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  id: 295178
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 35
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10369'
+    faculty: []
+    meetingTime:
+      beginTime: '1530'
+      building: AR
+      buildingDescription: Arbutus
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10369'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1720'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: true
+      room: '001'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: true
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 19
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS302
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '302'
+  courseReferenceNumber: '10724'
+  courseTitle: Graduation Showcase
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 2
+  creditHours: 2
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 13
+  faculty:
+  - bannerId: '1393374'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10724'
+    displayName: Barber, Gillian
+    emailAddress: gbarber@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  - bannerId: '1393376'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10724'
+    displayName: Crane, Chilton
+    emailAddress: chiltoncrane@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  - bannerId: '1393498'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10724'
+    displayName: Wilmot, Catherine
+    emailAddress: catherinewilmot@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  id: 295533
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 35
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10724'
+    faculty: []
+    meetingTime:
+      beginTime: '1500'
+      building: AR
+      buildingDescription: Arbutus
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10724'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1650'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '001'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: true
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 22
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS302
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '321'
+  courseReferenceNumber: '10638'
+  courseTitle: Conceptual Approaches I
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 17
+  faculty:
+  - bannerId: '1393373'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10638'
+    displayName: Atkins, Stephen
+    emailAddress: satkins@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295447
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10638'
+    faculty: []
+    meetingTime:
+      beginTime: 0930
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10638'
+      creditHourSession: 0.0
+      endDate: 17/02/2023
+      endTime: '1220'
+      friday: false
+      hoursWeek: 2.83
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '117'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: true
+    term: '202310'
+  openSection: true
+  partOfTerm: '18'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 3
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: false
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS321
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '321'
+  courseReferenceNumber: '11308'
+  courseTitle: Conceptual Approaches I
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 13
+  faculty:
+  - bannerId: '1393373'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '11308'
+    displayName: Atkins, Stephen
+    emailAddress: satkins@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 296135
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '11308'
+    faculty: []
+    meetingTime:
+      beginTime: 0930
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '11308'
+      creditHourSession: 0.0
+      endDate: 17/02/2023
+      endTime: '1220'
+      friday: false
+      hoursWeek: 2.83
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: true
+      room: '117'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '18'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 7
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: false
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS321
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '340'
+  courseReferenceNumber: '10849'
+  courseTitle: The Actor&#39;s Kit
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 17
+  faculty:
+  - bannerId: '1393376'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10849'
+    displayName: Crane, Chilton
+    emailAddress: chiltoncrane@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295658
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10849'
+    faculty: []
+    meetingTime:
+      beginTime: '1330'
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10849'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1520'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: true
+      room: '112'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 3
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS340
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '340'
+  courseReferenceNumber: '10850'
+  courseTitle: The Actor&#39;s Kit
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 13
+  faculty:
+  - bannerId: '1393376'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10850'
+    displayName: Crane, Chilton
+    emailAddress: chiltoncrane@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295659
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10850'
+    faculty: []
+    meetingTime:
+      beginTime: '1300'
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10850'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1450'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '112'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 7
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS340
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '362'
+  courseReferenceNumber: '10639'
+  courseTitle: Screen Projects III
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 16
+  faculty:
+  - bannerId: '1393372'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10639'
+    displayName: Johnson, Patricia
+    emailAddress: ljohnso1@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  - bannerId: '1393524'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10639'
+    displayName: Davies, John
+    emailAddress: jdavies@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  id: 295448
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10639'
+    faculty: []
+    meetingTime:
+      beginTime: '1330'
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10639'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1620'
+      friday: true
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '112'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 4
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: false
+  subject: ASAS
+  subjectCourse: ASAS362
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '362'
+  courseReferenceNumber: '10725'
+  courseTitle: Screen Projects III
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 13
+  faculty:
+  - bannerId: '1393372'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10725'
+    displayName: Johnson, Patricia
+    emailAddress: ljohnso1@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  - bannerId: '1393524'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10725'
+    displayName: Davies, John
+    emailAddress: jdavies@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  id: 295534
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 20
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10725'
+    faculty: []
+    meetingTime:
+      beginTime: 0930
+      building: DW
+      buildingDescription: Dogwood
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10725'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1220'
+      friday: true
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '112'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 7
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ASAS
+  subjectCourse: ASAS362
+  subjectDescription: Acting for Stage and Screen
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '106'
+  courseReferenceNumber: '10611'
+  courseTitle: Quadrupeds and Effects
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 27
+  faculty:
+  - bannerId: '1393481'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10611'
+    displayName: de Kraker, Michiel
+    emailAddress: michieldekraker@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295420
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 27
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10611'
+    faculty: []
+    meetingTime:
+      beginTime: 0930
+      building: BC
+      buildingDescription: Nat &amp; Flora Bosa Centre
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10611'
+      creditHourSession: 0.0
+      endDate: 03/03/2023
+      endTime: '1120'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '335'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10611'
+    faculty: []
+    meetingTime:
+      beginTime: 0930
+      building: BC
+      buildingDescription: Nat &amp; Flora Bosa Centre
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10611'
+      creditHourSession: 0.0
+      endDate: 03/03/2023
+      endTime: '1320'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '335'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: true
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10611'
+    faculty: []
+    meetingTime:
+      beginTime: '1300'
+      building: BC
+      buildingDescription: Nat &amp; Flora Bosa Centre
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10611'
+      creditHourSession: 0.0
+      endDate: 03/03/2023
+      endTime: '1450'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '335'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  openSection: false
+  partOfTerm: '24'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 0
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    restricted: true
+    sectionOpen: false
+    sectionStatus: true
+    select: false
+    timeConflict: true
+  subject: ANIM
+  subjectCourse: ANIM106
+  subjectDescription: Animation
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '106'
+  courseReferenceNumber: '10612'
+  courseTitle: Quadrupeds and Effects
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 24
+  faculty:
+  - bannerId: '1393481'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10612'
+    displayName: de Kraker, Michiel
+    emailAddress: michieldekraker@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295421
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 27
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10612'
+    faculty: []
+    meetingTime:
+      beginTime: 0930
+      building: BC
+      buildingDescription: Nat &amp; Flora Bosa Centre
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10612'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1120'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '317'
+      saturday: false
+      startDate: 06/03/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10612'
+    faculty: []
+    meetingTime:
+      beginTime: 0930
+      building: BC
+      buildingDescription: Nat &amp; Flora Bosa Centre
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10612'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1320'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '317'
+      saturday: false
+      startDate: 06/03/2023
+      sunday: false
+      term: '202310'
+      thursday: true
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10612'
+    faculty: []
+    meetingTime:
+      beginTime: '1300'
+      building: BC
+      buildingDescription: Nat &amp; Flora Bosa Centre
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10612'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1450'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '317'
+      saturday: false
+      startDate: 06/03/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '89'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 3
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ANIM
+  subjectCourse: ANIM106
+  subjectDescription: Animation
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '107'
+  courseReferenceNumber: '10613'
+  courseTitle: Character Animation I
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 27
+  faculty:
+  - bannerId: '1393466'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10613'
+    displayName: Bartlett, Andrew
+    emailAddress: andrewbartlett@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  - bannerId: '1393512'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10613'
+    displayName: Sylvester, Glenn
+    emailAddress: glennsylvester@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  id: 295422
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 27
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10613'
+    faculty: []
+    meetingTime:
+      beginTime: 0930
+      building: BC
+      buildingDescription: Nat &amp; Flora Bosa Centre
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10613'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1120'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '335'
+      saturday: false
+      startDate: 06/03/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10613'
+    faculty: []
+    meetingTime:
+      beginTime: '1300'
+      building: BC
+      buildingDescription: Nat &amp; Flora Bosa Centre
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10613'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1450'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '335'
+      saturday: false
+      startDate: 06/03/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10613'
+    faculty: []
+    meetingTime:
+      beginTime: '1330'
+      building: BC
+      buildingDescription: Nat &amp; Flora Bosa Centre
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10613'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1720'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '335'
+      saturday: false
+      startDate: 06/03/2023
+      sunday: false
+      term: '202310'
+      thursday: true
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: false
+  partOfTerm: '89'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 0
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: false
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ANIM
+  subjectCourse: ANIM107
+  subjectDescription: Animation
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '107'
+  courseReferenceNumber: '10615'
+  courseTitle: Character Animation I
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 24
+  faculty:
+  - bannerId: '1393466'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10615'
+    displayName: Bartlett, Andrew
+    emailAddress: andrewbartlett@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  - bannerId: '1393512'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10615'
+    displayName: Sylvester, Glenn
+    emailAddress: glennsylvester@capilanou.ca
+    primaryIndicator: false
+    term: '202310'
+  id: 295424
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 27
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10615'
+    faculty: []
+    meetingTime:
+      beginTime: 0930
+      building: BC
+      buildingDescription: Nat &amp; Flora Bosa Centre
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10615'
+      creditHourSession: 0.0
+      endDate: 03/03/2023
+      endTime: '1120'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '317'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10615'
+    faculty: []
+    meetingTime:
+      beginTime: '1300'
+      building: BC
+      buildingDescription: Nat &amp; Flora Bosa Centre
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10615'
+      creditHourSession: 0.0
+      endDate: 03/03/2023
+      endTime: '1450'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '317'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: true
+      wednesday: false
+    term: '202310'
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10615'
+    faculty: []
+    meetingTime:
+      beginTime: '1330'
+      building: BC
+      buildingDescription: Nat &amp; Flora Bosa Centre
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10615'
+      creditHourSession: 0.0
+      endDate: 03/03/2023
+      endTime: '1720'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '317'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: true
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '24'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 3
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: false
+    timeConflict: true
+  subject: ANIM
+  subjectCourse: ANIM107
+  subjectDescription: Animation
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '108'
+  courseReferenceNumber: '10230'
+  courseTitle: Design Elements II
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 2.25
+  creditHours: 2.25
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 27
+  faculty:
+  - bannerId: '1393465'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10230'
+    displayName: Leboe, Byron
+    emailAddress: bleboe@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295039
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 27
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10230'
+    faculty: []
+    meetingTime:
+      beginTime: 0900
+      building: BC
+      buildingDescription: Nat &amp; Flora Bosa Centre
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10230'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1150'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '335'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: true
+    term: '202310'
+  openSection: false
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 0
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: false
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ANIM
+  subjectCourse: ANIM108
+  subjectDescription: Animation
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '108'
+  courseReferenceNumber: '10310'
+  courseTitle: Design Elements II
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 2.25
+  creditHours: 2.25
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 24
+  faculty:
+  - bannerId: '1393465'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10310'
+    displayName: Leboe, Byron
+    emailAddress: bleboe@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295119
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 27
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10310'
+    faculty: []
+    meetingTime:
+      beginTime: 0930
+      building: BC
+      buildingDescription: Nat &amp; Flora Bosa Centre
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10310'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1220'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: true
+      room: '317'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 3
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ANIM
+  subjectCourse: ANIM108
+  subjectDescription: Animation
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '109'
+  courseReferenceNumber: '10378'
+  courseTitle: Adv. Drawing Techniques I
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 2.25
+  creditHours: 2.25
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 27
+  faculty:
+  - bannerId: '1393482'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10378'
+    displayName: Ghoreishi, Mohammad
+    emailAddress: mghoreis@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295187
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 27
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10378'
+    faculty: []
+    meetingTime:
+      beginTime: 0900
+      building: WL
+      buildingDescription: Willow
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10378'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1150'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: true
+      room: '104'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: false
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 0
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: false
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ANIM
+  subjectCourse: ANIM109
+  subjectDescription: Animation
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '109'
+  courseReferenceNumber: '10379'
+  courseTitle: Adv. Drawing Techniques I
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 2.25
+  creditHours: 2.25
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 25
+  faculty:
+  - bannerId: '1393482'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10379'
+    displayName: Ghoreishi, Mohammad
+    emailAddress: mghoreis@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295188
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 27
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10379'
+    faculty: []
+    meetingTime:
+      beginTime: 0900
+      building: AR
+      buildingDescription: Arbutus
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10379'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1150'
+      friday: false
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '201'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: true
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 2
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ANIM
+  subjectCourse: ANIM109
+  subjectDescription: Animation
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '110'
+  courseReferenceNumber: '10231'
+  courseTitle: Production Design
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 27
+  faculty:
+  - bannerId: '1393466'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10231'
+    displayName: Bartlett, Andrew
+    emailAddress: andrewbartlett@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295040
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 27
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10231'
+    faculty: []
+    meetingTime:
+      beginTime: '1300'
+      building: BC
+      buildingDescription: Nat &amp; Flora Bosa Centre
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10231'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1450'
+      friday: true
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '335'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: false
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 0
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: false
+    sectionStatus: true
+    select: true
+    timeConflict: false
+  subject: ANIM
+  subjectCourse: ANIM110
+  subjectDescription: Animation
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '110'
+  courseReferenceNumber: '10290'
+  courseTitle: Production Design
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 1.5
+  creditHours: 1.5
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 25
+  faculty:
+  - bannerId: '1393466'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10290'
+    displayName: Bartlett, Andrew
+    emailAddress: andrewbartlett@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295099
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 27
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10290'
+    faculty: []
+    meetingTime:
+      beginTime: '1030'
+      building: BC
+      buildingDescription: Nat &amp; Flora Bosa Centre
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10290'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1220'
+      friday: true
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '317'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: true
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 2
+  sectionAttributes: null
+  sequenceNumber: '02'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: true
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ANIM
+  subjectCourse: ANIM110
+  subjectDescription: Animation
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+- campusDescription: North Vancouver
+  courseNumber: '205'
+  courseReferenceNumber: '10291'
+  courseTitle: Character Animation III
+  creditHourHigh: null
+  creditHourIndicator: null
+  creditHourLow: 3
+  creditHours: 3
+  crossList: null
+  crossListAvailable: null
+  crossListCapacity: null
+  crossListCount: null
+  enrollment: 22
+  faculty:
+  - bannerId: '1393481'
+    category: null
+    class: net.hedtech.banner.student.faculty.FacultyResultDecorator
+    courseReferenceNumber: '10291'
+    displayName: de Kraker, Michiel
+    emailAddress: michieldekraker@capilanou.ca
+    primaryIndicator: true
+    term: '202310'
+  id: 295100
+  instructionalMethod: null
+  instructionalMethodDescription: null
+  isSectionLinked: false
+  linkIdentifier: null
+  maximumEnrollment: 22
+  meetingsFaculty:
+  - category: '01'
+    class: net.hedtech.banner.student.schedule.SectionSessionDecorator
+    courseReferenceNumber: '10291'
+    faculty: []
+    meetingTime:
+      beginTime: 0930
+      building: AR
+      buildingDescription: Arbutus
+      campus: NV
+      campusDescription: North Vancouver
+      category: '01'
+      class: net.hedtech.banner.general.overall.MeetingTimeDecorator
+      courseReferenceNumber: '10291'
+      creditHourSession: 0.0
+      endDate: 21/04/2023
+      endTime: '1320'
+      friday: true
+      hoursWeek: 1.0
+      meetingScheduleType: L
+      meetingType: CLAS
+      meetingTypeDescription: Class
+      monday: false
+      room: '209'
+      saturday: false
+      startDate: 04/01/2023
+      sunday: false
+      term: '202310'
+      thursday: false
+      tuesday: false
+      wednesday: false
+    term: '202310'
+  openSection: false
+  partOfTerm: '1'
+  reservedSeatSummary: null
+  scheduleTypeDescription: Lecture
+  seatsAvailable: 0
+  sectionAttributes: null
+  sequenceNumber: '01'
+  status:
+    authorizationReason: null
+    authorizationRequired: false
+    restricted: true
+    sectionOpen: false
+    sectionStatus: true
+    select: true
+    timeConflict: true
+  subject: ANIM
+  subjectCourse: ANIM205
+  subjectDescription: Animation
+  term: '202310'
+  termDesc: Spring 2023
+  waitAvailable: 0
+  waitCapacity: 0
+  waitCount: 0
+pageMaxSize: 50
+pageOffset: 0
+pathMode: registration
+searchResultsConfigs: null
+sectionsFetchedCount: 1988
+success: true
+totalCount: 1988
+ztcEncodedImage: null
