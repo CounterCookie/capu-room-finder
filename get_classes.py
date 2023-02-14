@@ -1,4 +1,10 @@
 '''
+
+NOTES:
+    getterms as well so the term is always up to date
+
+
+
 curl 'https://ssb9s.capilanou.ca:8443/StudentRegistrationSsb/ssb/searchResults/searchResults?txt_term=202310&startDatepicker=&endDatepicker=&uniqueSessionId=6ublv1675196575054&pageOffset=0&pageMaxSize=10&sortColumn=subjectDescription&sortDirection=asc' \
   -H 'Accept: application/json, text/javascript, */*; q=0.01' \
   -H 'Accept-Language: en-GB,en;q=0.9' \
@@ -20,7 +26,7 @@ curl 'https://ssb9s.capilanou.ca:8443/StudentRegistrationSsb/ssb/searchResults/s
 import requests, json
 from pprint import pprint
 
-
+'''
 headers = {
     'Cookie' : 'JSESSIONID=EDF898FFEBA2F6E91E9F74065191DD28; BIGipServerSBS9S.app~SBS9S_pool=1862276268.64288.0000',
     'Referer' : 'https://ssb9s.capilanou.ca:8443/StudentRegistrationSsb/ssb/classSearch/classSearch',
@@ -36,3 +42,11 @@ data = json.loads(response.text)
 for i in data['data']:
     for z in i['meetingsFaculty']:
         print(z['meetingTime']['campus'], z['meetingTime']['buildingDescription'] ,z['meetingTime']['room'], z['meetingTime']['tuesday'], 'Times:', z['meetingTime']['beginTime'], z['meetingTime']['endTime'])
+'''
+
+session = requests.Session()
+
+termData = {'term': '202310'} # The server needs to know what term you want, this is hardcoded. otherwise, return is empty.
+session.post('https://ssb9s.capilanou.ca:8443/StudentRegistrationSsb/ssb/term/search?mode=search', data=termData)
+
+print(session.get('https://ssb9s.capilanou.ca:8443/StudentRegistrationSsb/ssb/searchResults/searchResults?txt_term=202310&startDatepicker=&endDatepicker=&pageOffset=0&pageMaxSize=200&sortColumn=subjectDescription&sortDirection=asc').text)
